@@ -1,0 +1,13 @@
+.choice {
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+.winner {
+    color: green;
+}
+
+.computer-choice {
+    color: blue;
+}
